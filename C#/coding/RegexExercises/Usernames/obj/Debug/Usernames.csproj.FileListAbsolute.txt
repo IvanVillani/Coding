@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\bin\Debug\Usernames.exe.config
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\bin\Debug\Usernames.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\bin\Debug\Usernames.pdb
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\obj\Debug\Usernames.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\obj\Debug\Usernames.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\obj\Debug\Usernames.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Usernames\obj\Debug\Usernames.pdb

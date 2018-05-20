@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\bin\Debug\Wheather.exe.config
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\bin\Debug\Wheather.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\bin\Debug\Wheather.pdb
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\obj\Debug\Wheather.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\obj\Debug\Wheather.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\obj\Debug\Wheather.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\Wheather\obj\Debug\Wheather.pdb

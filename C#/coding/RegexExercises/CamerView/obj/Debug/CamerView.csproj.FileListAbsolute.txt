@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\bin\Debug\CamerView.exe.config
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\bin\Debug\CamerView.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\bin\Debug\CamerView.pdb
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\obj\Debug\CamerView.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\obj\Debug\CamerView.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\obj\Debug\CamerView.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\CamerView\obj\Debug\CamerView.pdb

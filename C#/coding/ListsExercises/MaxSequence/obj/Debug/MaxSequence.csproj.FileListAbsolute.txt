@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\bin\Debug\MaxSequence.exe.config
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\bin\Debug\MaxSequence.exe
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\bin\Debug\MaxSequence.pdb
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\obj\Debug\MaxSequence.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\obj\Debug\MaxSequence.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\obj\Debug\MaxSequence.exe
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\MaxSequence\obj\Debug\MaxSequence.pdb

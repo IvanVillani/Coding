@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Workout\bin\Debug\Workout.exe.config
+C:\Users\User\source\repos\Boi\Workout\bin\Debug\Workout.exe
+C:\Users\User\source\repos\Boi\Workout\bin\Debug\Workout.pdb
+C:\Users\User\source\repos\Boi\Workout\obj\Debug\Workout.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Workout\obj\Debug\Workout.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Workout\obj\Debug\Workout.exe
+C:\Users\User\source\repos\Boi\Workout\obj\Debug\Workout.pdb

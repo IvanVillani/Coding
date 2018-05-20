@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\obj\Debug\EqualSums.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\obj\Debug\EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\EqualSums\obj\Debug\EqualSums.pdb

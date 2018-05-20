@@ -1,0 +1,7 @@
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\bin\Debug\CountNumbers.exe.config
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\bin\Debug\CountNumbers.exe
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\bin\Debug\CountNumbers.pdb
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\obj\Debug\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\obj\Debug\CountNumbers.exe
+C:\Users\mrsta\source\repos\ListsLab\CountNumbers\obj\Debug\CountNumbers.pdb

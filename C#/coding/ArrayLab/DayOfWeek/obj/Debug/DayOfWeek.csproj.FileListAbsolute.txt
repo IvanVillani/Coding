@@ -1,0 +1,6 @@
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\DayOfWeek\obj\Debug\DayOfWeek.pdb

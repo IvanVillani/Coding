@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\bin\Debug\HandsOfCards.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\bin\Debug\HandsOfCards.pdb
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\obj\Debug\HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\obj\Debug\HandsOfCards.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\HandsOfCards\obj\Debug\HandsOfCards.pdb

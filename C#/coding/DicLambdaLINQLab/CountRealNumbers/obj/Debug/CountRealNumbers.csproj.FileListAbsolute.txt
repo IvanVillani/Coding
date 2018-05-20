@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

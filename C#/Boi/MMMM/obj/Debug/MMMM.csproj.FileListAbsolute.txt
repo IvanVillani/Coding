@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\MMMM\bin\Debug\MMMM.exe.config
+C:\Users\User\source\repos\Boi\MMMM\bin\Debug\MMMM.exe
+C:\Users\User\source\repos\Boi\MMMM\bin\Debug\MMMM.pdb
+C:\Users\User\source\repos\Boi\MMMM\obj\Debug\MMMM.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\MMMM\obj\Debug\MMMM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\MMMM\obj\Debug\MMMM.exe
+C:\Users\User\source\repos\Boi\MMMM\obj\Debug\MMMM.pdb

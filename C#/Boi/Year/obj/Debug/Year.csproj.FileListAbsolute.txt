@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Boi\Year\bin\Debug\Year.exe.config
+C:\Users\User\source\repos\Boi\Year\bin\Debug\Year.exe
+C:\Users\User\source\repos\Boi\Year\bin\Debug\Year.pdb
+C:\Users\User\source\repos\Boi\Year\obj\Debug\Year.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Year\obj\Debug\Year.exe
+C:\Users\User\source\repos\Boi\Year\obj\Debug\Year.pdb

@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\obj\Debug\WorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\obj\Debug\WorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

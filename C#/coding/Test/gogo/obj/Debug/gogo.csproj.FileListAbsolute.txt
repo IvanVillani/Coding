@@ -1,0 +1,6 @@
+C:\Users\mrsta\Documents\repos\coding\Test\gogo\bin\Debug\gogo.exe.config
+C:\Users\mrsta\Documents\repos\coding\Test\gogo\bin\Debug\gogo.exe
+C:\Users\mrsta\Documents\repos\coding\Test\gogo\bin\Debug\gogo.pdb
+C:\Users\mrsta\Documents\repos\coding\Test\gogo\obj\Debug\gogo.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\Test\gogo\obj\Debug\gogo.exe
+C:\Users\mrsta\Documents\repos\coding\Test\gogo\obj\Debug\gogo.pdb

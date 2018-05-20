@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\IntroBasicSyntax\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\User\source\repos\IntroBasicSyntax\Convertor\bin\Debug\Convertor.exe
+C:\Users\User\source\repos\IntroBasicSyntax\Convertor\bin\Debug\Convertor.pdb
+C:\Users\User\source\repos\IntroBasicSyntax\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroBasicSyntax\Convertor\obj\Debug\Convertor.exe
+C:\Users\User\source\repos\IntroBasicSyntax\Convertor\obj\Debug\Convertor.pdb

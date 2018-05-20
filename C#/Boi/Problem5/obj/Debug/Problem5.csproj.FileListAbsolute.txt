@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Problem5\bin\Debug\Problem5.exe.config
+C:\Users\User\source\repos\Boi\Problem5\bin\Debug\Problem5.exe
+C:\Users\User\source\repos\Boi\Problem5\bin\Debug\Problem5.pdb
+C:\Users\User\source\repos\Boi\Problem5\obj\Debug\Problem5.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Problem5\obj\Debug\Problem5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Problem5\obj\Debug\Problem5.exe
+C:\Users\User\source\repos\Boi\Problem5\obj\Debug\Problem5.pdb

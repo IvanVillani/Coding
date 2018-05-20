@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\bin\Debug\SearchNumber.exe.config
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\bin\Debug\SearchNumber.exe
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\bin\Debug\SearchNumber.pdb
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\obj\Debug\SearchNumber.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\obj\Debug\SearchNumber.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\obj\Debug\SearchNumber.exe
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\SearchNumber\obj\Debug\SearchNumber.pdb

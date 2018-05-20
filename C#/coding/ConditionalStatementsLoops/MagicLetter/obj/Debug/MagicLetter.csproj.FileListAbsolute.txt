@@ -1,0 +1,7 @@
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\bin\Debug\MagicLetter.exe.config
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\bin\Debug\MagicLetter.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\bin\Debug\MagicLetter.pdb
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\obj\Debug\MagicLetter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\obj\Debug\MagicLetter.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\MagicLetter\obj\Debug\MagicLetter.pdb

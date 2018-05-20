@@ -1,0 +1,7 @@
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\bin\Debug\DebitCard.exe.config
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\bin\Debug\DebitCard.exe
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\bin\Debug\DebitCard.pdb
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\obj\Debug\DebitCard.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\obj\Debug\DebitCard.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\obj\Debug\DebitCard.exe
+c:\users\user\source\repos\IntroBasicSyntax\DebitCard\obj\Debug\DebitCard.pdb

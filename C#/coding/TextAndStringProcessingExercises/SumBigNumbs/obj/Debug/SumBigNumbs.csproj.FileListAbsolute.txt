@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\bin\Debug\SumBigNumbs.exe.config
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\bin\Debug\SumBigNumbs.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\bin\Debug\SumBigNumbs.pdb
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\obj\Debug\SumBigNumbs.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\obj\Debug\SumBigNumbs.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\obj\Debug\SumBigNumbs.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\SumBigNumbs\obj\Debug\SumBigNumbs.pdb

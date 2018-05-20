@@ -1,0 +1,6 @@
+C:\Users\mrsta\source\repos\ListsLab\AppendList\bin\Debug\AppendList.exe.config
+C:\Users\mrsta\source\repos\ListsLab\AppendList\bin\Debug\AppendList.exe
+C:\Users\mrsta\source\repos\ListsLab\AppendList\bin\Debug\AppendList.pdb
+C:\Users\mrsta\source\repos\ListsLab\AppendList\obj\Debug\AppendList.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\source\repos\ListsLab\AppendList\obj\Debug\AppendList.exe
+C:\Users\mrsta\source\repos\ListsLab\AppendList\obj\Debug\AppendList.pdb

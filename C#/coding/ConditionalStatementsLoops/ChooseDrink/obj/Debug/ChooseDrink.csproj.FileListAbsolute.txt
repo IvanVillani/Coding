@@ -1,0 +1,7 @@
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\bin\Debug\ChooseDrink.exe.config
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\bin\Debug\ChooseDrink.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\bin\Debug\ChooseDrink.pdb
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\obj\Debug\ChooseDrink.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\obj\Debug\ChooseDrink.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\obj\Debug\ChooseDrink.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\ChooseDrink\obj\Debug\ChooseDrink.pdb

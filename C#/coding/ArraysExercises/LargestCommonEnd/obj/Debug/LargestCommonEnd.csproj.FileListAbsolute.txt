@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe.config
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\bin\Debug\LargestCommonEnd.pdb
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\obj\Debug\LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\obj\Debug\LargestCommonEnd.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\obj\Debug\LargestCommonEnd.exe
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LargestCommonEnd\obj\Debug\LargestCommonEnd.pdb

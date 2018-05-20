@@ -1,0 +1,6 @@
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe.config
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.pdb
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Problem9\bin\Debug\Problem9.exe.config
+C:\Users\User\source\repos\Boi\Problem9\bin\Debug\Problem9.exe
+C:\Users\User\source\repos\Boi\Problem9\bin\Debug\Problem9.pdb
+C:\Users\User\source\repos\Boi\Problem9\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Problem9\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Problem9\obj\Debug\Problem9.exe
+C:\Users\User\source\repos\Boi\Problem9\obj\Debug\Problem9.pdb

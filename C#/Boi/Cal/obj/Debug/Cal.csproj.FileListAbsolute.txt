@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Cal\bin\Debug\Cal.exe.config
+C:\Users\User\source\repos\Boi\Cal\bin\Debug\Cal.exe
+C:\Users\User\source\repos\Boi\Cal\bin\Debug\Cal.pdb
+C:\Users\User\source\repos\Boi\Cal\obj\Debug\Cal.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Cal\obj\Debug\Cal.exe
+C:\Users\User\source\repos\Boi\Cal\obj\Debug\Cal.pdb

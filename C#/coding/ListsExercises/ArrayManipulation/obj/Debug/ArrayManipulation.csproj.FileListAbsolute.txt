@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\bin\Debug\ArrayManipulation.exe.config
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\bin\Debug\ArrayManipulation.exe
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\bin\Debug\ArrayManipulation.pdb
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\obj\Debug\ArrayManipulation.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\obj\Debug\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\obj\Debug\ArrayManipulation.exe
+C:\Users\mrsta\Documents\repos\coding\ListsExercises\ArrayManipulation\obj\Debug\ArrayManipulation.pdb

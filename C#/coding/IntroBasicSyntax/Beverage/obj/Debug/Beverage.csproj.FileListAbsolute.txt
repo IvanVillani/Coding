@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\bin\Debug\Beverage.exe.config
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\bin\Debug\Beverage.exe
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\bin\Debug\Beverage.pdb
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\obj\Debug\Beverage.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\obj\Debug\Beverage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\obj\Debug\Beverage.exe
+C:\Users\User\source\repos\IntroBasicSyntax\Beverage\obj\Debug\Beverage.pdb

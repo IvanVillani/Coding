@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\bin\Debug\n-10Base.exe.config
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\bin\Debug\n-10Base.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\bin\Debug\n-10Base.pdb
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\obj\Debug\n-10Base.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\obj\Debug\n-10Base.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\obj\Debug\n-10Base.pdb
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\n-10Base\obj\Debug\n-10Base.csprojResolveAssemblyReference.cache

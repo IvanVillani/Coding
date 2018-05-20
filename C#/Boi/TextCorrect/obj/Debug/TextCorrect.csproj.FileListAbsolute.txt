@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\TextCorrect\bin\Debug\TextCorrect.exe.config
+C:\Users\User\source\repos\Boi\TextCorrect\bin\Debug\TextCorrect.exe
+C:\Users\User\source\repos\Boi\TextCorrect\bin\Debug\TextCorrect.pdb
+C:\Users\User\source\repos\Boi\TextCorrect\obj\Debug\TextCorrect.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\TextCorrect\obj\Debug\TextCorrect.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\TextCorrect\obj\Debug\TextCorrect.exe
+C:\Users\User\source\repos\Boi\TextCorrect\obj\Debug\TextCorrect.pdb

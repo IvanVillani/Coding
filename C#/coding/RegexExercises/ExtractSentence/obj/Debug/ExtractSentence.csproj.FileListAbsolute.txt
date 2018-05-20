@@ -1,0 +1,6 @@
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractSentence\bin\Debug\ExtractSentence.exe.config
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractSentence\bin\Debug\ExtractSentence.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractSentence\bin\Debug\ExtractSentence.pdb
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractSentence\obj\Debug\ExtractSentence.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractSentence\obj\Debug\ExtractSentence.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractSentence\obj\Debug\ExtractSentence.pdb

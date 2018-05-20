@@ -1,0 +1,6 @@
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\Functions\bin\Debug\Functions.exe.config
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\Functions\bin\Debug\Functions.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\Functions\bin\Debug\Functions.pdb
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\Functions\obj\Debug\Functions.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\Functions\obj\Debug\Functions.pdb

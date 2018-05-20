@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Pytagor numbers\bin\Debug\Pytagor numbers.exe.config
+C:\Users\User\source\repos\Boi\Pytagor numbers\bin\Debug\Pytagor numbers.exe
+C:\Users\User\source\repos\Boi\Pytagor numbers\bin\Debug\Pytagor numbers.pdb
+C:\Users\User\source\repos\Boi\Pytagor numbers\obj\Debug\Pytagor numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Pytagor numbers\obj\Debug\Pytagor numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Pytagor numbers\obj\Debug\Pytagor numbers.exe
+C:\Users\User\source\repos\Boi\Pytagor numbers\obj\Debug\Pytagor numbers.pdb

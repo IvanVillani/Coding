@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQExercises\Phonebook\obj\Debug\Phonebook.pdb

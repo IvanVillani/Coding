@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Ivanovi\bin\Debug\Ivanovi.exe.config
+C:\Users\User\source\repos\Boi\Ivanovi\bin\Debug\Ivanovi.exe
+C:\Users\User\source\repos\Boi\Ivanovi\bin\Debug\Ivanovi.pdb
+C:\Users\User\source\repos\Boi\Ivanovi\obj\Debug\Ivanovi.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Ivanovi\obj\Debug\Ivanovi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Ivanovi\obj\Debug\Ivanovi.exe
+C:\Users\User\source\repos\Boi\Ivanovi\obj\Debug\Ivanovi.pdb

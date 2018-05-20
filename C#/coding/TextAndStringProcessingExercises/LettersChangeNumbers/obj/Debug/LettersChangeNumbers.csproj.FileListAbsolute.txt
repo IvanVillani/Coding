@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe.config
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.pdb
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.pdb

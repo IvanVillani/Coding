@@ -1,0 +1,7 @@
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\bin\Debug\DiffNumbers.exe.config
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\bin\Debug\DiffNumbers.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\bin\Debug\DiffNumbers.pdb
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\obj\Debug\DiffNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\obj\Debug\DiffNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\obj\Debug\DiffNumbers.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\DiffNumbers\obj\Debug\DiffNumbers.pdb

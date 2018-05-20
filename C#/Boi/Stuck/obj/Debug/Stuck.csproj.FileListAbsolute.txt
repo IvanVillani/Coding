@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Stuck\bin\Debug\Stuck.exe.config
+C:\Users\User\source\repos\Boi\Stuck\bin\Debug\Stuck.exe
+C:\Users\User\source\repos\Boi\Stuck\bin\Debug\Stuck.pdb
+C:\Users\User\source\repos\Boi\Stuck\obj\Debug\Stuck.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Stuck\obj\Debug\Stuck.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Stuck\obj\Debug\Stuck.exe
+C:\Users\User\source\repos\Boi\Stuck\obj\Debug\Stuck.pdb

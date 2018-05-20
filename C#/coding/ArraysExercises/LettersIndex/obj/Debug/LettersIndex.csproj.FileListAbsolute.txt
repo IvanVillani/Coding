@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\bin\Debug\LettersIndex.exe.config
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\bin\Debug\LettersIndex.exe
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\bin\Debug\LettersIndex.pdb
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\obj\Debug\LettersIndex.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\obj\Debug\LettersIndex.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\obj\Debug\LettersIndex.exe
+C:\Users\mrsta\Documents\repos\coding\ArraysExercises\LettersIndex\obj\Debug\LettersIndex.pdb

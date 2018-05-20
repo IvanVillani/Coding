@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\FindCount\bin\Debug\FindCount.exe.config
+C:\Users\User\source\repos\Boi\FindCount\bin\Debug\FindCount.exe
+C:\Users\User\source\repos\Boi\FindCount\bin\Debug\FindCount.pdb
+C:\Users\User\source\repos\Boi\FindCount\obj\Debug\FindCount.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\FindCount\obj\Debug\FindCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\FindCount\obj\Debug\FindCount.exe
+C:\Users\User\source\repos\Boi\FindCount\obj\Debug\FindCount.pdb

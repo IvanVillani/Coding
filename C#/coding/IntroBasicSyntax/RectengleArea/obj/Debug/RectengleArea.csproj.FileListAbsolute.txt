@@ -1,0 +1,6 @@
+c:\users\user\source\repos\IntroBasicSyntax\RectengleArea\bin\Debug\RectengleArea.exe.config
+c:\users\user\source\repos\IntroBasicSyntax\RectengleArea\bin\Debug\RectengleArea.exe
+c:\users\user\source\repos\IntroBasicSyntax\RectengleArea\bin\Debug\RectengleArea.pdb
+c:\users\user\source\repos\IntroBasicSyntax\RectengleArea\obj\Debug\RectengleArea.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\IntroBasicSyntax\RectengleArea\obj\Debug\RectengleArea.exe
+c:\users\user\source\repos\IntroBasicSyntax\RectengleArea\obj\Debug\RectengleArea.pdb

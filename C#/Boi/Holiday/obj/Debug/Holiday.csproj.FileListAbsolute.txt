@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boi\Holiday\bin\Debug\Holiday.exe.config
+C:\Users\User\source\repos\Boi\Holiday\bin\Debug\Holiday.exe
+C:\Users\User\source\repos\Boi\Holiday\bin\Debug\Holiday.pdb
+C:\Users\User\source\repos\Boi\Holiday\obj\Debug\Holiday.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Boi\Holiday\obj\Debug\Holiday.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boi\Holiday\obj\Debug\Holiday.exe
+C:\Users\User\source\repos\Boi\Holiday\obj\Debug\Holiday.pdb

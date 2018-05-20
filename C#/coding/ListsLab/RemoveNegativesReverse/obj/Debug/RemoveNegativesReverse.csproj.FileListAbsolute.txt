@@ -1,0 +1,7 @@
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\bin\Debug\RemoveNegativesReverse.exe.config
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\bin\Debug\RemoveNegativesReverse.exe
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\bin\Debug\RemoveNegativesReverse.pdb
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\obj\Debug\RemoveNegativesReverse.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\obj\Debug\RemoveNegativesReverse.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\obj\Debug\RemoveNegativesReverse.exe
+C:\Users\mrsta\source\repos\ListsLab\RemoveNegativesReverse\obj\Debug\RemoveNegativesReverse.pdb

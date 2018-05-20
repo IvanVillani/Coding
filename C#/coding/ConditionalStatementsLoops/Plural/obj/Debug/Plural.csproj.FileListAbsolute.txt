@@ -1,0 +1,6 @@
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\Plural\bin\Debug\Plural.exe.config
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\Plural\bin\Debug\Plural.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\Plural\bin\Debug\Plural.pdb
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\Plural\obj\Debug\Plural.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\Plural\obj\Debug\Plural.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\Plural\obj\Debug\Plural.pdb

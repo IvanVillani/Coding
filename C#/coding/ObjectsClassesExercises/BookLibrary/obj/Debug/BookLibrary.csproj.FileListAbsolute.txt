@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\BookLibrary\obj\Debug\BookLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\bin\Debug\ExtractEmails.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\bin\Debug\ExtractEmails.pdb
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\obj\Debug\ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\obj\Debug\ExtractEmails.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\ExtractEmails\obj\Debug\ExtractEmails.pdb

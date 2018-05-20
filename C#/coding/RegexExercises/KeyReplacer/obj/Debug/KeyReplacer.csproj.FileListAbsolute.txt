@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\bin\Debug\KeyReplacer.exe.config
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\bin\Debug\KeyReplacer.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\bin\Debug\KeyReplacer.pdb
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\obj\Debug\KeyReplacer.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\obj\Debug\KeyReplacer.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\obj\Debug\KeyReplacer.exe
+C:\Users\mrsta\Documents\repos\coding\RegexExercises\KeyReplacer\obj\Debug\KeyReplacer.pdb

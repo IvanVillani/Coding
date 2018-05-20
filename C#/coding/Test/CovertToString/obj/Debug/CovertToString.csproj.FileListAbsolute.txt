@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\bin\Debug\CovertToString.exe.config
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\bin\Debug\CovertToString.exe
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\bin\Debug\CovertToString.pdb
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\obj\Debug\CovertToString.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\obj\Debug\CovertToString.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\obj\Debug\CovertToString.exe
+C:\Users\mrsta\Documents\repos\coding\Test\CovertToString\obj\Debug\CovertToString.pdb

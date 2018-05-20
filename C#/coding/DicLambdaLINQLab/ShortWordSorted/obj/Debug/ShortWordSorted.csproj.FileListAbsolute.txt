@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\bin\Debug\ShortWordSorted.exe.config
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\bin\Debug\ShortWordSorted.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\bin\Debug\ShortWordSorted.pdb
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\obj\Debug\ShortWordSorted.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\obj\Debug\ShortWordSorted.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\obj\Debug\ShortWordSorted.exe
+C:\Users\mrsta\Documents\repos\coding\DicLambdaLINQLab\ShortWordSorted\obj\Debug\ShortWordSorted.pdb

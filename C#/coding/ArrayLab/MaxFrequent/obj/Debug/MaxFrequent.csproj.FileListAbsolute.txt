@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\bin\Debug\MaxFrequent.exe.config
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\bin\Debug\MaxFrequent.exe
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\bin\Debug\MaxFrequent.pdb
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\obj\Debug\MaxFrequent.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\obj\Debug\MaxFrequent.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\obj\Debug\MaxFrequent.exe
+C:\Users\mrsta\Documents\repos\coding\ArrayLab\MaxFrequent\obj\Debug\MaxFrequent.pdb

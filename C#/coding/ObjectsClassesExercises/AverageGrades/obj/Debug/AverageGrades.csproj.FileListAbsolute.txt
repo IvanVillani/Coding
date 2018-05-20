@@ -1,0 +1,6 @@
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\AverageGrades\bin\Debug\AverageGrades.exe.config
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\AverageGrades\bin\Debug\AverageGrades.exe
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\AverageGrades\bin\Debug\AverageGrades.pdb
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\AverageGrades\obj\Debug\AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\AverageGrades\obj\Debug\AverageGrades.exe
+C:\Users\mrsta\Documents\repos\coding\ObjectsClassesExercises\AverageGrades\obj\Debug\AverageGrades.pdb

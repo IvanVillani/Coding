@@ -1,0 +1,7 @@
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\bin\Debug\TestNumbers.exe.config
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\bin\Debug\TestNumbers.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\bin\Debug\TestNumbers.pdb
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\obj\Debug\TestNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\obj\Debug\TestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\obj\Debug\TestNumbers.exe
+C:\Users\User\Documents\repos\coding\ConditionalStatementsLoops\TestNumbers\obj\Debug\TestNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\mrsta\source\repos\ListsLab\SumAdjacentEqualNimb\bin\Debug\SumAdjacentEqualNimb.exe.config
+C:\Users\mrsta\source\repos\ListsLab\SumAdjacentEqualNimb\bin\Debug\SumAdjacentEqualNimb.exe
+C:\Users\mrsta\source\repos\ListsLab\SumAdjacentEqualNimb\bin\Debug\SumAdjacentEqualNimb.pdb
+C:\Users\mrsta\source\repos\ListsLab\SumAdjacentEqualNimb\obj\Debug\SumAdjacentEqualNimb.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\source\repos\ListsLab\SumAdjacentEqualNimb\obj\Debug\SumAdjacentEqualNimb.exe
+C:\Users\mrsta\source\repos\ListsLab\SumAdjacentEqualNimb\obj\Debug\SumAdjacentEqualNimb.pdb

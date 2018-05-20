@@ -1,0 +1,7 @@
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\bin\Debug\CharMultiply.exe.config
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\bin\Debug\CharMultiply.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\bin\Debug\CharMultiply.pdb
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\obj\Debug\CharMultiply.csprojResolveAssemblyReference.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\obj\Debug\CharMultiply.csproj.CoreCompileInputs.cache
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\obj\Debug\CharMultiply.exe
+C:\Users\mrsta\Documents\repos\coding\TextAndStringProcessingExercises\CharMultiply\obj\Debug\CharMultiply.pdb
