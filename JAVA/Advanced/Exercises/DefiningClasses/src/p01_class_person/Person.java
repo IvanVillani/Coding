@@ -1,6 +1,6 @@
 package p01_class_person;
 
-public class Person {
+class Person {
     private static String DEFAULT_NAME = "No name";
     private static int DEFAULT_AGE = 1;
 

@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/p10_family_tree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="269">
+              <caret line="141" column="32" lean-forward="true" selection-start-line="141" selection-start-column="32" selection-end-line="141" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,54 +24,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Car.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p10_family_tree/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="-289">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding>
-                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
                 <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#1001#1002#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1096#1097#0" expanded="true" />
-                <element signature="e#1137#1138#0" expanded="true" />
-                <element signature="e#1173#1174#0" expanded="true" />
-                <element signature="e#1205#1206#0" expanded="true" />
-                <element signature="e#1233#1234#0" expanded="true" />
-                <element signature="e#1275#1276#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Engine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-536">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-              <folding>
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1089#1090#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1174#1175#0" expanded="true" />
-                <element signature="e#1206#1207#0" expanded="true" />
-                <element signature="e#1234#1235#0" expanded="true" />
-                <element signature="e#1276#1277#0" expanded="true" />
-                <element signature="e#1310#1311#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
+                <element signature="e#915#916#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,8 +64,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/p01_class_person/Main.java" />
-        <option value="$PROJECT_DIR$/src/p01_class_person/Person.java" />
-        <option value="$PROJECT_DIR$/src/p03_person_class/Person.java" />
         <option value="$PROJECT_DIR$/src/p03_person_class/Main.java" />
         <option value="$PROJECT_DIR$/src/p04_company_roster/Employee.java" />
         <option value="$PROJECT_DIR$/src/p04_company_roster/Department.java" />
@@ -104,8 +76,24 @@
         <option value="$PROJECT_DIR$/src/p06_raw_data/Car.java" />
         <option value="$PROJECT_DIR$/src/p06_raw_data/Main.java" />
         <option value="$PROJECT_DIR$/src/p07_car_salesman/Car.java" />
-        <option value="$PROJECT_DIR$/src/p07_car_salesman/Main.java" />
         <option value="$PROJECT_DIR$/src/p07_car_salesman/Engine.java" />
+        <option value="$PROJECT_DIR$/src/p07_car_salesman/Main.java" />
+        <option value="$PROJECT_DIR$/src/p08_pokemon_trainer/Trainer.java" />
+        <option value="$PROJECT_DIR$/src/p08_pokemon_trainer/Pokemon.java" />
+        <option value="$PROJECT_DIR$/src/p08_pokemon_trainer/Main.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Car.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Pokemon.java" />
+        <option value="$PROJECT_DIR$/src/p01_class_person/Person.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Company.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Main.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Person.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Child.java" />
+        <option value="$PROJECT_DIR$/src/p09_google/Parent.java" />
+        <option value="$PROJECT_DIR$/src/p03_person_class/Person.java" />
+        <option value="$PROJECT_DIR$/src/p10_family_tree/Parent.java" />
+        <option value="$PROJECT_DIR$/src/p10_family_tree/Person.java" />
+        <option value="$PROJECT_DIR$/src/p10_family_tree/Child.java" />
+        <option value="$PROJECT_DIR$/src/p10_family_tree/Main.java" />
       </list>
     </option>
   </component>
@@ -118,11 +106,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="877" />
-    <option name="y" value="50" />
-    <option name="width" value="1050" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="41" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -145,13 +133,7 @@
               <item name="DefiningClasses" type="b2602c69:ProjectViewProjectNode" />
               <item name="DefiningClasses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p04_company_roster" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DefiningClasses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DefiningClasses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p07_car_salesman" type="462c0819:PsiDirectoryNode" />
+              <item name="p10_family_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,6 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/mrsta/Documents/Coding/JAVA/Advanced/Exercises/DefiningClasses/src/p10_family_tree/Child.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -180,25 +163,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p04_company_roster.Main" />
+      <option name="MAIN_CLASS_NAME" value="p10_family_tree.Main" />
       <module name="DefiningClasses" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p04_company_roster.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p05_speed_racing.Main" />
-      <module name="DefiningClasses" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="p05_speed_racing.*" />
+          <option name="PATTERN" value="p10_family_tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,13 +197,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01_class_person.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p08_pokemon_trainer.Main" />
       <module name="DefiningClasses" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01_class_person.*" />
+          <option name="PATTERN" value="p08_pokemon_trainer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p09_google.Main" />
+      <module name="DefiningClasses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p09_google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,19 +261,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,16 +287,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528949942524</updated>
-      <workItem from="1528949944086" duration="23164000" />
+      <workItem from="1528949944086" duration="53438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23164000" />
+    <option name="totallyTimeSpent" value="53438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="702" y="40" width="840" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -324,19 +306,19 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32551724" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.043583535" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12890625" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="0" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.39888424" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.46758622" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
@@ -373,51 +355,29 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p09_google/Main.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/p10_family_tree/Main.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p01_class_person/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_class_person/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p03_person_class/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -581,16 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p04_company_roster/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="41" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p04_company_roster/Department.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -603,33 +553,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding>
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-536">
+        <state relative-caret-position="51">
           <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding>
             <element signature="e#792#793#0" expanded="true" />
@@ -652,10 +578,323 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/p07_car_salesman/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="119">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p08_pokemon_trainer/Pokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p08_pokemon_trainer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="55" column="99" selection-start-line="55" selection-start-column="99" selection-end-line="55" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p08_pokemon_trainer/Trainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p04_company_roster/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Pokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_class_person/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p09_google/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+            <element signature="e#1521#1522#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1609#1610#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1823#1824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p03_person_class/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p10_family_tree/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p10_family_tree/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p10_family_tree/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p10_family_tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="141" column="32" lean-forward="true" selection-start-line="141" selection-start-column="32" selection-end-line="141" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

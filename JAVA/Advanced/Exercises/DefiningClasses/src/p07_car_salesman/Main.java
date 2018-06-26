@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedHashMap;
+import java.util.LinkedList;
 import java.util.Map;
 
 import static java.lang.System.in;
@@ -16,7 +17,7 @@ public class Main {
         int n = Integer.parseInt(reader.readLine());
 
         Map<String, Engine> engines = new LinkedHashMap<>();
-        Map<String, Car> cars = new LinkedHashMap<>();
+        LinkedList<Car> cars = new LinkedList<>();
 
         for (int i = 0; i < n; i++) {
             String[] arr = reader.readLine().split("\\s+");
@@ -71,17 +72,17 @@ public class Main {
                 car.setWeight(Car.DEFAULT_VALUE);
                 car.setColor(Car.DEFAULT_VALUE);
             }
-            cars.put(model, car);
+            cars.add(car);
         }
 
-        cars.forEach((key, value) -> {
-            System.out.printf("%s:%n", value.getModel());
-            System.out.printf("%s:%n", value.getEngine().getModel());
-            System.out.printf("Power: %s%n", value.getEngine().getPower());
-            System.out.printf("Displacement: %s%n", value.getEngine().getDisplace());
-            System.out.printf("Efficiency: %s%n", value.getEngine().getEffic());
-            System.out.printf("Weight: %s%n", value.getWeight());
-            System.out.printf("Color: %s%n", value.getColor());
+        cars.forEach(car -> {
+            System.out.printf("%s:%n", car.getModel());
+            System.out.printf("%s:%n", car.getEngine().getModel());
+            System.out.printf("Power: %s%n", car.getEngine().getPower());
+            System.out.printf("Displacement: %s%n", car.getEngine().getDisplace());
+            System.out.printf("Efficiency: %s%n", car.getEngine().getEffic());
+            System.out.printf("Weight: %s%n", car.getWeight());
+            System.out.printf("Color: %s%n", car.getColor());
         });
     }
 }
