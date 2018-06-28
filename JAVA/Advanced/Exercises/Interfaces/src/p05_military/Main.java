@@ -3,9 +3,7 @@ package p05_military;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.List;
+import java.util.*;
 
 import static java.lang.System.in;
 
@@ -15,18 +13,23 @@ public class Main {
 
         String input = reader.readLine();
 
-        HashSet<Private> privates = new LinkedHashSet<>();
+        Map<Integer, Private> privates = new LinkedHashMap<>();
 
         while (!"End".equals(input)) {
             String[] arr = input.split(" ");
             switch (arr[0]) {
                 case "Private":
                     Privat privat = new Privat(Integer.parseInt(arr[1]), arr[2], arr[3], Double.parseDouble(arr[4]));
-                    privates.add(privat);
+                    privates.put(Integer.parseInt(arr[1]), privat);
                     System.out.println(privat.toString());
                     break;
                 case "LeutenantGeneral":
-                    LeutenantGeneral leutenantGeneral = new LeutenantGeneral(Integer.parseInt(arr[1]), arr[2], arr[3], Double.parseDouble(arr[4]), privates);
+                    HashSet<Private> privates1 = new LinkedHashSet<>();
+                    for (int i = 5; i < arr.length; i++) {
+                        Private pri = privates.get(Integer.parseInt(arr[i]));
+                        privates1.add(pri);
+                    }
+                    LeutenantGeneral leutenantGeneral = new LeutenantGeneral(Integer.parseInt(arr[1]), arr[2], arr[3], Double.parseDouble(arr[4]), privates1);
                     System.out.println(leutenantGeneral.toString());
                     break;
                 case "Engineer":
@@ -54,7 +57,7 @@ public class Main {
                     }catch (IllegalArgumentException ignored){}
                     break;
                 case "Spy":
-                    Spy spy = new Spy(Integer.parseInt(arr[1]), arr[2], arr[3], Integer.parseInt(arr[4]));
+                    Spy spy = new Spy(Integer.parseInt(arr[1]), arr[2], arr[3], arr[4]);
                     System.out.println(spy.toString());
                     break;
                 default:
